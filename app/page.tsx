@@ -24,7 +24,7 @@ export default function Home() {
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Submit Your Information</h1>
                 <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-                  We're excited to learn more about you. Fill out the form below to get started.
+                  We're here to help you on your journey. Fill out the form below so Alma can better understand your immigration needs and guide you every step of the way.
                 </p>
               </div>
               <div className="mx-auto w-full max-w-sm space-y-2">

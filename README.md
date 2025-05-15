@@ -80,3 +80,5 @@ Styling
   npm run start    # Run the production build
   npm run lint     # Run ESLint for code quality checks
 ```
+
+🔍Vercel link: https://lead-management-gilt.vercel.app/

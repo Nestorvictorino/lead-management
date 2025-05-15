@@ -23,7 +23,7 @@ Follow these steps to run the project locally:
     
 4. Open the development server http://localhost:3000 in your browser.
 
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 🧠 Design and Architecture
 Technologies Used
 Next.js 14 (App Router)
